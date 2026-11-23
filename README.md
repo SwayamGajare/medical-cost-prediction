@@ -91,8 +91,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - **Project Name:** Medical Cost Prediction
 - **Domain:** Data Science and Machine Learning
 - **Project Type:** Academic Project
-- **Author:** Swayam
-
----
-
-*This project was developed for learning and demonstrating practical applications of Data Science and Machine Learning.*
+- **Author:** Swayam Gajare
